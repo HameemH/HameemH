@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Hameem Hossain</h1>
 <h3 align="center">Backend Developer | Computer Vision Enthusiast | AI Research Learner</h3>
 
@@ -10,24 +9,24 @@ Building intelligent systems with Python, machine learning, and scalable backend
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Computer Vision pipelines and AI-driven systems**
-- 🌱 Currently learning **Deep Learning, System Design, and Scalable Backend Development**
-- 👯 Looking to collaborate on **Open-source AI / Computer Vision projects**
-- 🤔 Exploring **real-time vision systems and ML deployment**
-- 💬 Ask me about **Python, Machine Learning, Computer Vision, and Backend Development**
-- 📫 Reach me at: **hameemhossain2@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/hameem-hossain/**
-- ⚡ Fun fact: I enjoy turning research papers into real-world AI systems.
+- 🔭 I’m currently working on **Computer Vision pipelines and AI-driven systems**
+- 🌱 I’m currently learning **Deep Learning, System Design, and Backend Development**
+- 👯 I’m looking to collaborate on **AI / Computer Vision open-source projects**
+- 🤔 I’m exploring **real-time vision systems and ML deployment**
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, Backend APIs**
+- 📫 How to reach me: **hameemhossain2@gmail.com**
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I enjoy turning **research papers into real-world AI systems**
 
 ---
 
-## 🧠 Research & Interests
+## 🧠 Research Interests
 
 - Computer Vision  
 - Deep Learning  
 - Real-time Vision Systems  
-- Backend Systems for AI  
-- Model Optimization and Deployment  
+- AI System Deployment  
+- Backend Systems for ML  
 
 ---
 
@@ -51,52 +50,41 @@ Matplotlib • Seaborn • Plotly
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Featured Projects
 
-### 🚗 Real-Time Vehicle Detection System
+### 🚗 Real-Time Vehicle Detection
 - Built a real-time object detection pipeline using **RF-DETR**
 - Trained models on a **custom traffic dataset**
-- Deployed inference pipeline with **OpenCV for video streams**
+- Performed inference on video streams using **OpenCV**
 
-### 🧠 Neural Network from Scratch
-- Implemented a neural network **without deep learning frameworks**
+### 🧠 Neural Network From Scratch
+- Implemented a neural network **without using deep learning frameworks**
 - Built forward propagation and backpropagation manually
-- Visualized training progress and performance
+- Visualized model training and accuracy
 
 ### 📊 COVID NLP Sentiment Analysis
-- Built a sentiment classification model
-- Implemented preprocessing pipeline using **Pandas + NLP techniques**
+- Built a sentiment classification pipeline
+- Implemented preprocessing and neural network training using **Python and Pandas**
 
 ---
 
-## 📚 Current Learning Journey
+## 📚 Currently Learning
 
 - Advanced **Computer Vision Architectures**
 - **Model Deployment & MLOps**
 - **System Design for AI Applications**
-- **Cloud Integration with ML systems**
+- **Cloud + AI Integration**
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hameemh&layout=compact)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-If you're working on **AI, Machine Learning, or Computer Vision projects**,  
-I'd love to collaborate and build impactful systems together.
-
-📩 **Email:** hameemhossain2@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/hameem-hossain/
-
----
+- 📧 Email: hameemhossain2@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hameem-hossain/
 ```
